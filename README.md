@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @crypetech
+- 👀 I’m interested in programming & stuffff
+- 🌱 I’m currently learning machine control & robotics
+- 💞️ I’m looking to collaborate on Flipper
